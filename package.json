@@ -1,8 +1,8 @@
 {
   "name": "tatty-screen-base-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base module for tatty-screen",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
     "watch": "./build/watch.js",
     "build": "./build/build.js",
@@ -27,7 +27,5 @@
   },
   "license": "WTFPL",
   "devDependencies": {
-    "systemjs-builder": "^0.2.1",
-    "watch": "^0.11.0"
   }
 }

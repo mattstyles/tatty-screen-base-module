@@ -1,7 +1,7 @@
 {
   "name": "tatty-screen-base-module",
-  "version": "1.0.0",
-  "main": "dist/index.js",
+  "version": "1.0.1",
+  "main": "index.js",
   "authors": [
     "mattstyles <matt@veryfizzyjelly.com>"
   ],
